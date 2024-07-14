@@ -10,9 +10,9 @@ Simple discord code bot in python with the feature of moving member from voice c
 4. just wait 1 minute + u need to mute and then you move from your vc to another vc
 ```
 > Before </br>
-![image img](/example1.png)
+![image img](/example1.png) </br>
 
 > After </br>
-![image img](/example2.png)
+![image img](/example2.png) </br>
 
 # DON'T FORGET TO STAR THIS REPOS :)
